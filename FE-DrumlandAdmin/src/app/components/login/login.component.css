@@ -7,3 +7,18 @@
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
 }
+
+.log {
+    height: 50px;
+    width: 500px;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+}
+
+.accessbtn {
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    background: rgb(255, 205, 111);
+}
